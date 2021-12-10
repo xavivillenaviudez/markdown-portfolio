@@ -1,6 +1,3 @@
-
-    Futbol
-    Bàsquet
-    Jugar
-        Fifa
-        Cod
+- Fifa
+- NBA
+- Call of Duty
